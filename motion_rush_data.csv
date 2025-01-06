@@ -1,0 +1,27 @@
+Motion Type,Rush Percentage,Count
+Overall,0.38932524098536236,16806
+No Motion,0.43791592273981494,12322
+Wideout motions past ball then cuts back,0.25925925925925924,162
+Slight motion next to Tackle,0.2409090909090909,220
+Backfield motions to closer wideout (opposite side),0.2605042016806723,119
+Closer wideout motions to backfield,0.3352941176470588,170
+Wideout motions next to tackle,0.21428571428571427,196
+Wideout motions to slot,0.1797752808988764,89
+Motion next to opposite side tackle,0.29590017825311943,561
+RB small motion forward,0.35119047619047616,168
+Slot player cuts in front of the ball,0.1870967741935484,465
+RB motions to other side of QB,0.33636363636363636,220
+Backfield motions to closer wideout (same side),0.12598425196850394,127
+Wideout cuts back towards the snap,0.5061728395061729,243
+Motion to other side of line as a wideout,0.18082191780821918,365
+RB motion in backfield,0.35555555555555557,135
+Wideout motions closer to line,0.05963302752293578,218
+Wideout moves back but returns to inital position,0.1125,80
+Backfield motions to farther wideout (opposite side),0.05084745762711865,59
+RB goes forward then returns,0.48148148148148145,135
+Backfield motions to farther wideout (same side),0.03225806451612903,62
+Wideout motions further outside,0.05263157894736842,133
+Slot player moves towards the snap,0.4623115577889447,199
+Player slightly motions next to tackle,0.17575757575757575,165
+Player behind tackle moves to wideout,0.06493506493506493,77
+Wideout motions to backfield,0.3620689655172414,116

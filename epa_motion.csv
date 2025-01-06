@@ -1,0 +1,26 @@
+,Motion Type,Mean Expected Points Added,Count
+0,No Motion,-0.06615000863596693,12322
+1,Wideout motions past ball then cuts back,0.20148575491628323,162
+2,Slight motion next to Tackle,0.1285007813698031,220
+3,Backfield motions to closer wideout (opposite side),-0.004370644182835293,119
+4,Closer wideout motions to backfield,-0.08341802591731877,170
+5,Wideout motions next to tackle,-0.12034256637841229,196
+6,Wideout motions to slot,-0.017665447746050344,89
+7,Motion next to opposite side tackle,0.12555816860091545,561
+8,RB small motion forward,-0.019008870554812204,168
+9,Slot player cuts in front of the ball,0.11051354718924068,465
+10,RB motions to other side of QB,-0.08247028027438913,220
+11,Backfield motions to closer wideout (same side),0.07472830017254964,127
+12,Wideout cuts back towards the snap,0.33591811651691644,243
+13,Motion to other side of line as a wideout,0.27002883208548806,365
+14,RB motion in backfield,0.007985953525941693,135
+15,Wideout motions closer to line,0.305371914905071,218
+16,Wideout moves back but returns to inital position,0.021963791483722205,80
+17,Backfield motions to farther wideout (opposite side),-0.0350945976225388,59
+18,RB goes forward then returns,0.15620181660892238,135
+19,Backfield motions to farther wideout (same side),0.19356293686113576,62
+20,Wideout motions further outside,-0.03039687668600042,133
+21,Slot player moves towards the snap,-0.0004822709853587004,199
+22,Player slightly motions next to tackle,0.09539965857543534,165
+23,Player behind tackle moves to wideout,0.1343318033134171,77
+24,Wideout motions to backfield,0.07524069525318511,116
